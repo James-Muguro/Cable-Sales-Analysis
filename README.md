@@ -1,5 +1,7 @@
 # Data Preparation and Analysis for Sales Forecasting
 
+![Logo](https://images.app.goo.gl/wYuQdY5Fbm1p7KqBA)
+
 ## Introduction
 
 This project focuses on analyzing sales data for Cable Prime to support a sales consultant's presentation to the Head of Sales. The analysis includes data preparation, descriptive and diagnostic insights, sales forecasting, and strategic recommendations aimed at achieving 150% sales growth. A plan for monthly analysis using efficient tools and technologies is also outlined.
@@ -152,4 +154,4 @@ Contributions to this project are welcome. Please follow these steps:
 
 ## 8. Acknowledgments
 
-We extend our gratitude to the data engineering and analytics teams at Cable Prime for providing the datasets and their valuable insights. Special thanks to the sales consultant for guiding the analysis requirements and objectives.
+We extend our heartfelt gratitude to the data engineering and analytics community for their invaluable contributions in providing the datasets that made this analysis possible. Your dedication and expertise are greatly appreciated.
