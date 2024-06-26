@@ -1,6 +1,6 @@
 # Data Preparation and Analysis for Sales Forecasting
 
-!(https://www.telegraph.co.uk/content/dam/deals/Deals_Prime-01.jpg?imwidth=680)
+![](https://www.telegraph.co.uk/content/dam/deals/Deals_Prime-01.jpg?imwidth=680)
 
 ## Introduction
 
